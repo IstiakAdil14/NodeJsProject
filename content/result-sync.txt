@@ -1,0 +1,1 @@
+here is the result :Hello this is the from first txt file.Im IstiakHello this is the from second txt file.Im Adil[object Object]here is the result :   Hello this is the from first txt file.Im Istiak, Hello this is the from second txt file.Im Adil
